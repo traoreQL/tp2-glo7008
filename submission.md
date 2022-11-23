@@ -1,6 +1,6 @@
 # Description de la remise
 
-### Nom complet: XXXXX
+### Nom complet: Diadié Traoré
 ### NIP: 536 903 801
 ### Liste des codes et descriptions des fonctionnalités sélectionnées:
 Exemple:
